@@ -1,0 +1,245 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><!--[if IE 6]> <link href="ie-6.css" rel="stylesheet" type="text/css" /><![endif]--><!--[if lt IE 6]> <link href="ie-5.css" rel="stylesheet" type="text/css" /><![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><title>Orphanet: Diseases list</title><link rel="stylesheet" type="text/css" href="screen.css" media="screen" /><link rel="stylesheet" type="text/css" href="print.css" media="print" /><meta name="author" content="INSERM SC11 -- TOUS DROITS RESERVES" /><meta name="keywords" content="Orphanet,rare disease, rare diseases, orphan drug, orphan drugs, genetic disease, genetic diseases, rare disorder, rare disorders" /><meta name="description" content="The portal for rare diseases and orphan drugs" /><meta name="Language" content="en" /><link rel="shortcut icon" href="favicon.ico" type="image/x-icon" /><script type="text/javascript" src="javascript/jquery-1.4.2.min.js"></script><script type="text/javascript" src="javascript/jquery-ui/jquery-ui-1.8.4.custom.min.js"></script><script type="text/javascript" src="javascript/loader.js"></script></head><body>
+        <div id="page">
+            <a href="#skipnav" class="skipnav" title="Skip to" accesskey="2">Skip to</a>
+            <div id="header">
+                <div id="languages">
+                    <strong>Languages :</strong>
+                    <ul><li><span lang="fr" xml:lang="fr"><abbr title="Fran&#231;ais&#13;"><a href="/consor/cgi-bin/Disease_Search_List.php?lng=FR&amp;TAG=0">Fran&#231;ais&#13;</a></abbr></span></li><li><span lang="en" xml:lang="en"><abbr title="English"><a href="/consor/cgi-bin/Disease_Search_List.php?lng=EN&amp;TAG=0" class="current">English</a></abbr></span></li><li><span lang="es" xml:lang="es"><abbr title="Espa&#241;ol"><a href="/consor/cgi-bin/Disease_Search_List.php?lng=ES&amp;TAG=0">Espa&#241;ol</a></abbr></span></li><li><span lang="de" xml:lang="de"><abbr title="Deutsch"><a href="/consor/cgi-bin/Disease_Search_List.php?lng=DE&amp;TAG=0">Deutsch</a></abbr></span></li><li><span lang="it" xml:lang="it"><abbr title="Italiano"><a href="/consor/cgi-bin/Disease_Search_List.php?lng=IT&amp;TAG=0">Italiano</a></abbr></span></li>                    </ul></div>
+                <div id="logo-box">
+
+                    <a href="index.php?lng=EN">
+                    <img src="images/logo_orphanet.gif" alt="Back to homepage&#13;" height="36" width="192" /></a>
+                    <h2 class="hidden"><a href="./">Orphanet index</a></h2>
+                    </div>
+
+                <div id="baseline">
+
+                    <h2>The portal for rare diseases and orphan drugs</h2>
+                </div>
+                <h2 class="hidden"></h2>
+                <div id="navlist">
+                    <ul><li><a href="index.php?lng=EN" accesskey="1" title="">
+                            Homepage</a></li>
+                    <!--    <li>
+                        <a  href='MISSING CONTENT?stapage=HM_BLOC_HEADER_SITEMAP_STATOR_TAG&amp;lng=EN'  >Site map (XML)</a>                </li> -->
+                        <li>
+                        <a href="Education_EducationTools.php?stapage=HM_BLOC_HEADER_HELP_STATOR_TAG&amp;lng=EN" accesskey="h">Help</a>                    <!--    <a class="helpcursor" href="Education_EducationTools.php?lng=EN" accesskey="6" title="">Help</a>-->
+                        </li>
+                        <li><a href="Directory_Contact.php?lng=EN" accesskey="7" title="">Contact us</a></li>
+                <!--        <li><a href="#							?lng=EN" accesskey="0" title="">Accessibility</a></li>-->
+                    </ul></div>
+            </div>
+
+<h2 class="hidden">Main menu :&#13;</h2>
+<div id="maintabs">
+<ul><li id="current" class="first"><a href="Disease.php?lng=EN"><span>Rare diseases</span></a></li>
+<li><a href="Drugs.php?lng=EN"><span>Orphan drugs</span></a></li>
+<li><a href="Clinics.php?lng=EN"><span>Clinics</span></a></li>
+<li><a href="ClinicalLabs.php?lng=EN"><span>Diagnostic tests</span></a></li>
+<li><a href="ResearchTrials.php?lng=EN"><span>Research and trials</span></a></li>
+<li><a href="SupportGroup.php?lng=EN"><span>Patient organisations</span></a></li>
+<li><a href="Directory.php?lng=EN"><span>Directory of resources</span></a></li>
+<li><a href="Education.php?lng=EN"><span>Other information</span></a></li>
+</ul></div>
+<h2 class="hidden">Submenu :&#13;</h2>
+<div id="tabs2-box">
+<ul id="tabs2"><li><a href="Disease_Search.php?lng=EN" class="current">Search</a></li>
+<li><a href="Disease_DiagnosisAssistance.php?lng=EN">Search by sign</a></li>
+<li><a href="Disease_Classif.php?lng=EN">Classifications</a></li>
+<li><a href="Disease_Genes.php?lng=EN">Genes</a></li>
+<li><a href="Disease_PatientEncyclo.php?lng=EN">Encyclopaedia for patients</a></li>
+<li><a href="Disease_ProEncyclo.php?lng=EN">Encyclopaedia for professionals</a></li>
+<li><a href="Disease_Emergency.php?lng=EN">Emergency guidelines</a></li>
+</ul></div>
+<h2 class="hidden">Navigation tree :&#13;</h2><div id="shadow-bottom-tabs2"></div><ol class="tree"><li><a href="index.php?lng=EN">Homepage</a></li><li><a href="Disease.php?lng=EN">Rare diseases</a></li><li><a href="Disease_Search.php?lng=EN">Search</a></li></ol><div id="print"><a href="#" onclick="javascript:window.print()">Print<img src="images/printer.gif" alt="Print" /></a></div>
+	<div class="google_translate" id="google_translate_element"></div><script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: "EN"
+  }, "google_translate_element");
+}
+</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><!--begin search--><div id="engine">
+
+	<form id="FormName" action="Disease_Search_List.php?lng=EN" method="post">
+
+	<fieldset class="Main"><fieldset class="Fifth"><legend>Alphabetical list</legend>
+<input type="hidden" name="lng" value="EN" /><h4 class="double-form-h4">Alphabetical list</h4>
+<fieldset class="Margeons_SearchformList"><a href="Disease_Search_List.php?lng=EN&amp;TAG=0">0-9</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=A">A</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=B">B</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=C">C</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=D">D</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=E">E</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=F">F</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=G">G</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=H">H</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=I">I</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=J">J</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=K">K</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=L">L</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=M">M</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=N">N</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=O">O</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=P">P</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=Q">Q</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=R">R</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=S">S</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=T">T</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=U">U</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=V">V</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=W">W</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=X">X</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=Y">Y</a>&#160;<a href="Disease_Search_List.php?lng=EN&amp;TAG=Z">Z</a>&#160;</fieldset></fieldset><h4>Other search option(s)</h4>
+<fieldset><ul><li><a href="Disease_Search.php?lng=EN&amp;search=Disease_Search_Simple">Simple search</a></li>
+</ul></fieldset></fieldset></form></div><!--end search-->
+<div id="content">
+<a name="skipnav" id="skipnav"></a>
+<h1>122 Result(s)&#13;</h1>
+<div id="result-box">
+<a name="top_of_page" id="top_of_page"></a>
+<ul><li><a href="OC_Exp.php?lng=EN&amp;Expert=1307">10q24 microduplication syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=168588">11-beta-hydroxysteroid dehydrogenase deficiency type 1</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=320">11-beta-hydroxysteroid dehydrogenase deficiency type 2</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=52022">11p11.2 deletion</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=1590">13q32 deletion</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=199318">15q13 microdeletion syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=94065">15q24 microdeletion syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=1596">15q26 deletion</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=98785">15q triplication</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=783">16p13.3 deletion syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=752">17-beta-hydroxysteroid dehydrogenase 3 deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=35123">17b-hydroxysteroid dehydrogenase deficiency type 10</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=752">17 ketoreductase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=752">17 ketosteroidreductase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=819">17p11.2 microdeletion</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=217385">17p13 microduplication syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=139474">17q11.2 microduplication syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=217340">17q21.31 microduplication syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=99763">18-hydroxylase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=99763">18-oxydase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=217346">19q13.1 microdeletion syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=96131">22pter monosomy</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=48652">22q13 deletion</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=976">2,8 dihydroxyadenine urolithiasis</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=79154">2-aminoadipic aciduria</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=19">2-hydroxyglutaricaciduria</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=35123">2-methyl-3-hydroxybutyryl-CoA dehydrogenase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=79157">2-methylbutyric aciduria</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=163693">2p21 deletion</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=163693">2p21 microdeletion syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=228402">2q23.1 microdeletion syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=79301">3-beta-hydroxy-delta-5-C27-steroid oxidoreductase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=7">3C syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=35123">3-hydroxy-2-methylbutyryl-CoA dehydrogenase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=20">3-hydroxy-3-methylglutaric aciduria</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=20">3-hydroxy-3-methylglutaryl-CoA lyase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=35701">3-hydroxy 3-methylglutaryl-CoA synthase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=939">3-hydroxyisobutyric aciduria</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=71212">3-hydroxylacyl-CoA dehydrogenase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=6">3-methylcrotonyl-CoA carboxylase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=6">3-methylcrotonylglycinuria</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=67046">3-methylglutaconic aciduria type 1</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=111">3-methylglutaconic aciduria type 2</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=67047">3-methylglutaconic aciduria type 3</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=67048">3-methylglutaconic aciduria type 4</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=67046">3-methylglutaconyl-CoA hydratase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=67046">3MG-coA hydratase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=2616">3M syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=2616">3-M syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=79351">3-Phosphoglycerate dehydrogenase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=79350">3-Phosphoserine phosphatase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=65286">3q29 deletion</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=881">45,X/46,XX syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=1772">45,X/46,XY gonadal dysgenesis</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=96197">45X/46XY mosaicism</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=881">45,X syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=199310">46,XX/46,XY chimerism</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=243">46,XX complete gonadal dysgenesis</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=2982">46,XX disorder of sex development</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=2973">46,XX disorder of sex development - anorectal anomalies</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=91144">46,XX disorder of sex development induced by androgen of maternal origin</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=98078">46,XX disorder of sex development induced by androgens</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=90776">46,XX Disorder of sex development induced by androgens of fetal origin</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=2975">46,XX disorder of sex development - skeletal anomalies</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=2982">46,XX DSD</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=243">46,XX gonadal dysgenesis</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=243">46,XX pure gonadal dysgenesis</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=393">46,XX testicular disorder of sex development</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=393">46,XX testicular DSD</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=242">46,XY complete gonadal dysgenesis</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=98085">46,XY disorder of sex development</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=168558">46,XY disorder of sex development - adrenal insufficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=752">46,XY disorder of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=753">46,XY disorder of sex development due to 5-alpha-reductase 2 deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=90788">46,XY disorder of sex development due to a defect in an androgen-dependent target tissue</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=98088">46,XY disorder of sex development due to a defect in synthesis, secretion, or response to antimullerian hormone</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=98086">46,XY disorder of sex development due to a defect in testosterone metabolism by peripheral tissue</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=90789">46,XY disorder of sex development due to an end-organ resistance to androgenic hormones</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=90787">46,XY disorder of sex development due to an enzyme defect primarily affecting testicular testosterone biosynthesis</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=90786">46,XY disorder of sex development due to an enzyme deficit affecting synthesis of both corticosteroids and testosterone</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=90783">46,XY disorder of sex development due to an inborn error of testosterone biosynthesis</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=90796">46,XY disorder of sex development due to isolated 17, 20 lyase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=90779">46,XY disorder of sex development due to testicular unresponsiveness to hCG and LH</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=98085">46,XY DSD</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=242">46,XY gonadal dysgenesis</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=168563">46,XY gonadal dysgenesis - motor and sensory neuropathy</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=242">46,XY pure gonadal dysgenesis</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=755">46,XY sex development disorder due to LH defects</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=3375">47,XXX</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=484">47,XXY syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=8">47,XYY syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=9">48,XXXX</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=9">48,XXXX syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=96263">48,XXXY syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=10">48,XXYY syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=99329">48,XYYY syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=11">49,XXXXX</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=11">49,XXXXX syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=96264">49,XXXXY syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=99330">49,XYYYY syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=2118">4-alpha-hydroxyphenylpyruvate hydroxylase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=2118">4-HPPD deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=88637">4H syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=22">4-hydroxybutyricaciduria</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=69723">4-hydroxyphenylpyruvate dioxygenase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=2118">4-hydroxyphenylpyruvic acid dioxygenase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=69723">4-hydroxyphenylpyruvic acid oxidase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=280">4p syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=217064">5-fluorouracil overdose</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=622">5-methyltetrahydrofolate-homocysteine s-methyltransferase</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=33572">5-oxoprolinase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=228384">5q14.3 microdeletion syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=228415">5q35 microduplication syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=99135">6-phosphogluconate dehydrogenase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=13">6-pyruvoyl-tetrahydropterin synthase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=75857">6q terminal deletion</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=818">7-dehydrocholesterol reductase deficiency</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=168953">8p11 myeloproliferative syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=96092">8p inverted duplication/deletion</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=228399">8q12 microduplication syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=2496">8q13 microdeletion syndrome</a></li>
+  <li><a href="OC_Exp.php?lng=EN&amp;Expert=96147">9q subtelomere deletion syndrome</a></li>
+</ul><a href="#top_of_page" class="topofpage"></a>
+</div>
+</div>
+&#13;
+            <h2 class="hidden">Orphanet&#13;</h2>&#13;
+            <div id="partners-logo-footer">&#13;
+                <ul><li><a title="Open in new window" href="http://www.inserm.fr/fr/"><img src="images/logo-INSERM.jpg" alt="Link to INSERM website" /></a></li>&#13;
+                    <li><a title="Open in new window" href="http://www.sante.gouv.fr/"><img src="images/logo-sante_jeunesse_sports.jpg" alt="Link to the French Ministry of Health" /></a></li>&#13;
+                    <li><a title="Open in new window" href="http://europa.eu.int/comm/health/ph_threats/non_com/rare_diseases_en.htm"><img src="images/logo-CEE_RDPortal.jpg" alt="Link to CEE website" /></a></li>&#13;
+                     <li><a title="Open in new window" href="http://www.afm-france.org/"><img src="images/logo-AFM.jpg" alt="Go to AFM website&#13;" /></a></li>&#13;
+                     <li><a title="Open in new window" href="http://corporate.airfrance.com/fr/developpement-durable/societe/soutenir-des-projets-humanitaires-et-des-projets-de-developpement/"><img src="images/logo-AIRFRANCE.jpg" alt="Go to Air France website&#13;" /></a></li>&#13;
+                    <li><a title="Open in new window" href="http://www.leem.org/"><img src="images/logo_LEEM.jpg" alt="Go to LEEM website&#13;" /></a></li>&#13;
+                    <li><a title="Open in new window" href="http://www.fondation-groupama.com/"><img src="images/logo-FONDATIONGRP.gif" alt="Go to Groupama website&#13;" /></a></li>&#13;
+&#13;
+                    <li class="honcode"><a class="lien_extimg" href="http://www.hon.ch/HONcode/Conduct.html?HONConduct385483"><img src="http://www.HONcode.ch/HONcode/Seal/French/HONConduct385483.jpg" alt="Link to HON website" height="50" width="45" /></a></li>&#13;
+&#13;
+                </ul></div>&#13;
+            <h2 class="hidden">Footer:</h2><div id="copyright">Copyright</div>&#13;
+            <div id="footer">&#13;
+&#13;
+                <a href="index.php?lng=EN">Orphanet</a>  |&#13;
+                <a href="Disease.php?lng=EN">Rare diseases</a>  |&#13;
+                <a href="Drugs.php?lng=EN">Orphan drugs</a>  |&#13;
+            <a href="Clinics.php?lng=EN">Clinics</a>  |&#13;
+            <a href="ClinicalLabs.php?lng=EN">Diagnostic tests</a>  |&#13;
+            <a href="ResearchTrials.php?lng=EN">Research and trials</a>  |&#13;
+            <a href="SupportGroup.php?lng=EN">Patient organisations</a>  |&#13;
+            <a href="Directory.php?lng=EN">Directory</a> |&#13;
+            <a href="Education.php?lng=EN">Other information</a> |&#13;
+            <a href="html/orphanet-googlemap.xml?stapage=HM_BLOC_FOOTER_SITEMAP_STATOR_TAG&amp;lng=EN">XML SiteMap</a> | <a href="Education_AboutOrphanet.php?lng=EN&amp;stapage=CGU">Legal notice</a></div></div><div id="languagesFooter">&#13;
+                    <strong>Languages :</strong><ul><li><span lang="fr" xml:lang="fr"><abbr title="Fran&#231;ais&#13;"><a href="/consor/cgi-bin/Disease_Search_List.php?lng=FR&amp;TAG=0">Fran&#231;ais&#13;</a></abbr></span></li><li><span lang="en" xml:lang="en"><abbr title="English"><a href="/consor/cgi-bin/Disease_Search_List.php?lng=EN&amp;TAG=0" class="current">English</a></abbr></span></li><li><span lang="es" xml:lang="es"><abbr title="Espa&#241;ol"><a href="/consor/cgi-bin/Disease_Search_List.php?lng=ES&amp;TAG=0">Espa&#241;ol</a></abbr></span></li><li><span lang="de" xml:lang="de"><abbr title="Deutsch"><a href="/consor/cgi-bin/Disease_Search_List.php?lng=DE&amp;TAG=0">Deutsch</a></abbr></span></li><li><span lang="it" xml:lang="it"><abbr title="Italiano"><a href="/consor/cgi-bin/Disease_Search_List.php?lng=IT&amp;TAG=0">Italiano</a></abbr></span></li></ul></div><div id="logosw3c"><!-- <p><br/><a href="http://validator.w3.org/check?uri=referer"><img
+        src="images/xhtml10.png"
+        alt="XHTML Valid"  /></a>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img  src="images/css20.png"
+            alt="CSS Valid" /></a>
+<a href="http://www.w3.org/WAI/WCAG1AA-Conformance"
+      title="Explanation of Level Double-A Conformance">
+ <img src="images/WAI-AA-custom.png" alt="WAI-AA Valid"/></a>
+<a href="http://www.tawdis.net/taw3/cms/en">
+<img src="images/TAW-AA_small.png" alt="TAW3-AA Valid"/></a></p> --></div><script type="text/javascript">&#13;
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");&#13;
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));&#13;
+</script><script type="text/javascript">&#13;
+var pageTracker = _gat._getTracker("UA-1500122-1");&#13;
+pageTracker._initData();&#13;
+pageTracker._trackPageview();&#13;
+</script></body></html>

@@ -1,0 +1,341 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+    <!--[if IE 6]> <link href="ie-6.css" rel="stylesheet" type="text/css" /><![endif]-->
+    <!--[if lt IE 6]> <link href="ie-5.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+    <head>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+        <title>Orphanet: 19q13.1 microdeletion syndrome</title>
+        <link rel="stylesheet" type="text/css" href="screen.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="print.css" media="print" />
+        <meta name="author" content="INSERM SC11 -- TOUS DROITS RESERVES" />
+        <meta name="keywords" content="Orphanet,rare disease, rare diseases, orphan drug, orphan drugs, genetic disease, genetic diseases, rare disorder, rare disorders" />
+        <meta name="description" content="The portal for rare diseases and orphan drugs" />
+        <meta name="Language" content="en" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="javascript/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="javascript/jquery-ui/jquery-ui-1.8.4.custom.min.js"></script>
+<script type="text/javascript" src="javascript/loader.js"></script>
+    </head>
+    <body>
+        <div id='page'>
+            <a href="#skipnav" class='skipnav' title="Skip to" accesskey="2">Skip to</a>
+            <div id='header'>
+                <div id='languages'>
+                    <strong>Languages :</strong>
+                    <ul>
+                        <li><span lang='fr'><abbr title='Français'><a href="/consor/cgi-bin/OC_Exp.php?lng=FR&amp;Expert=217346" >Français</a></abbr></span></li><li><span lang='en'><abbr title='English'><a href="/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=217346"  class='current'>English</a></abbr></span></li><li><span lang='es'><abbr title='Español'><a href="/consor/cgi-bin/OC_Exp.php?lng=ES&amp;Expert=217346" >Español</a></abbr></span></li><li><span lang='de'><abbr title='Deutsch'><a href="/consor/cgi-bin/OC_Exp.php?lng=DE&amp;Expert=217346" >Deutsch</a></abbr></span></li><li><span lang='it'><abbr title='Italiano'><a href="/consor/cgi-bin/OC_Exp.php?lng=IT&amp;Expert=217346" >Italiano</a></abbr></span></li>                    </ul>
+                </div>
+                <div id='logo-box'>
+
+                    <a href="index.php?lng=EN">
+                    <img src="images/logo_orphanet.gif" alt="Back to homepage" height="36" width="192" /></a>
+                    <h2 class='hidden'><a href="./">Orphanet index</a></h2>
+                    </div>
+
+                <div id='baseline'>
+
+                    <h2>The portal for rare diseases and orphan drugs</h2>
+                </div>
+                <h2 class="hidden"></h2>
+                <div id="navlist">
+                    <ul>
+                        <li><a  href="index.php?lng=EN" accesskey="1" title="">
+                            Homepage</a></li>
+                    <!--    <li>
+                        <a  href='MISSING CONTENT?stapage=HM_BLOC_HEADER_SITEMAP_STATOR_TAG&amp;lng=EN'  >Site map (XML)</a>                </li> -->
+                        <li>
+                        <a  href='Education_EducationTools.php?stapage=HM_BLOC_HEADER_HELP_STATOR_TAG&amp;lng=EN' accesskey='h' >Help</a>                    <!--    <a class="helpcursor" href="Education_EducationTools.php?lng=EN" accesskey="6" title="">Help</a>-->
+                        </li>
+                        <li><a  href="Directory_Contact.php?lng=EN" accesskey="7" title="">Contact us</a></li>
+                <!--        <li><a href="#							?lng=EN" accesskey="0" title="">Accessibility</a></li>-->
+                    </ul>
+                </div>
+            </div>
+
+<h2 class='hidden'>Main menu :</h2>
+<div id='maintabs'>
+<ul>
+<li id='current' class='first'><a href='Disease.php?lng=EN'><span>Rare diseases</span></a></li>
+<li ><a href='Drugs.php?lng=EN'><span>Orphan drugs</span></a></li>
+<li ><a href='Clinics.php?lng=EN'><span>Clinics</span></a></li>
+<li ><a href='ClinicalLabs.php?lng=EN'><span>Diagnostic tests</span></a></li>
+<li ><a href='ResearchTrials.php?lng=EN'><span>Research and trials</span></a></li>
+<li ><a href='SupportGroup.php?lng=EN'><span>Patient organisations</span></a></li>
+<li ><a href='Directory.php?lng=EN'><span>Directory of resources</span></a></li>
+<li ><a href='Education.php?lng=EN'><span>Other information</span></a></li>
+</ul>
+</div>
+<h2 class='hidden'>Submenu :</h2>
+<div id='tabs2-box'>
+<ul id='tabs2'>
+<li><a href='Disease_Search.php?lng=EN' class='current'>Search</a></li>
+<li><a href='Disease_DiagnosisAssistance.php?lng=EN' >Search by sign</a></li>
+<li><a href='Disease_Classif.php?lng=EN' >Classifications</a></li>
+<li><a href='Disease_Genes.php?lng=EN' >Genes</a></li>
+<li><a href='Disease_PatientEncyclo.php?lng=EN' >Encyclopaedia for patients</a></li>
+<li><a href='Disease_ProEncyclo.php?lng=EN' >Encyclopaedia for professionals</a></li>
+<li><a href='Disease_Emergency.php?lng=EN' >Emergency guidelines</a></li>
+</ul>
+</div>
+<h2 class='hidden'>Navigation tree :</h2><div id='shadow-bottom-tabs2'></div><ol class='tree'><li><a href='index.php?lng=EN'>Homepage</a></li><li><a href='Disease.php?lng=EN'>Rare diseases</a></li><li><a href='Disease_Search.php?lng=EN'>Search</a></li></ol><div id='print'><a href="#" onclick="javascript:window.print()">Print<img src="images/printer.gif" alt="Print"/></a></div>
+	<div class="google_translate" id="google_translate_element"></div><script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: "EN"
+  }, "google_translate_element");
+}
+</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+			<!--begin search-->
+
+	<div id='engine'>
+
+	<form id='FormName' action='Disease_Search_Simple.php?lng=EN' method='post'>
+
+	<fieldset class='Main'>
+<fieldset class='Fifth'>
+<legend>Simple search</legend>
+<input type='hidden' name='lng' value='EN' />
+<h4 class='double-form-h4'>Simple search</h4>
+<fieldset class='Margeons'><label for='diseaseGroup' class='hidden-label'>Enter keywords</label>
+<input type='text' maxlength='300' name='Disease_Disease_Search_diseaseGroup' class='inputSty' id='autocomplete_diseaseGroup' value="" />
+<input type="hidden" id="autocompleteFlag" value="PAT" />
+<script type="text/javascript" language="javascript">
+// <![CDATA[
+$(function() {	$('#autocomplete_diseaseGroup').autocomplete({
+		minLength: 1,
+		delay: 500,
+		focus: function(event, ui) {return false;}, 
+		select: function(event, ui) {
+			$('#autocomplete_diseaseGroup').value = ui.item.value;
+		},
+		search: function(event, ui) {
+			if (document.getElementById('autocompleteFlag').value == 'PAT') {
+				$('#autocomplete_diseaseGroup').autocomplete('option', 'source', 'autocomplete.php?lang=EN');
+			}
+			else {
+				return false;
+			}
+		}
+	});
+});
+// ]]>
+</script>
+<span class='star_mandatory'>*</span><br/><span class='legend_mandatory'>(*) mandatory field<br/><br/></span></fieldset>
+<fieldset class='Sixth'><input type="radio" name="Disease_Disease_Search_diseaseType" id="Pat" value="Pat" checked="checked" onchange="if (this.checked == true) { document.getElementById('autocompleteFlag').value = this.id.toUpperCase(); }" /><label for='Pat' >Disease name</label>
+<br />
+<input type="radio" name="Disease_Disease_Search_diseaseType" id="Gen" value="Gen" onchange="if (this.checked == true) { document.getElementById('autocompleteFlag').value = this.id.toUpperCase(); }" /><label for='Gen' >Gene name or symbol</label>
+<br />
+<input type="radio" name="Disease_Disease_Search_diseaseType" id="MIM" value="MIM" onchange="if (this.checked == true) { document.getElementById('autocompleteFlag').value = this.id.toUpperCase(); }" /><label for='MIM' >MIM number</label>
+<br />
+<input type="radio" name="Disease_Disease_Search_diseaseType" id="OMS" value="OMS" onchange="if (this.checked == true) { document.getElementById('autocompleteFlag').value = this.id.toUpperCase(); }" /><label for='OMS' class=''>ICD 10 code</label>
+<br />
+<input type="radio" name="Disease_Disease_Search_diseaseType" id="ORPHA" value="ORPHA" onchange="if (this.checked == true) { document.getElementById('autocompleteFlag').value = this.id.toUpperCase(); }" /><label for='ORPHA' >Orpha number</label>
+</fieldset>
+<button class='btok' type='submit'>Simple search</button></fieldset>
+<h4>Other search option(s)</h4>
+<fieldset><ul><li><a href='Disease_Search.php?lng=EN&amp;search=Disease_Search_List'>Alphabetical list</a></li>
+</ul></fieldset></fieldset>
+</form></div><!--end search-->
+<div id='content'>
+<h1><span lang=''><a name='skipnav'></a>19q13.1 microdeletion syndrome</span></h1><div id='disease-idcard'>
+  <table summary='' class='fullWidthTable'>
+    <tr >
+      <td class='twoColumnsTable'>
+        <table summary='' class='id-labo'>
+          <tr >
+            <td class='title'>Orpha number</td>
+            <td>ORPHA217346</td>
+          </tr>
+          <tr >
+            <td class='title'>Prevalence of rare diseases</td>
+            <td><1 / 1 000 000</td>
+          </tr>
+          <tr >
+            <td class='title'><acronym title='Inheritance'>Inheritance</acronym></td>
+            <td>
+              <ul>
+                <li>Sporadic</li>
+              </ul>
+            </td>
+          </tr>
+          <tr >
+            <td class='title'>Age of onset</td>
+            <td>Neonatal/infancy</td>
+          </tr>
+          <tr >
+            <td class='title'><acronym title='ICD 10'>ICD 10 code</acronym></td>
+            <td>-</td>
+          </tr>
+          <tr >
+            <td class='title'><acronym title='Mendelian Inheritance in Man'>MIM number</acronym></td>
+            <td>
+              <ul>
+                <li><a href='http://www.ncbi.nlm.nih.gov/omim/613026'  class='lien_ext'>613026</a></li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td class='twoColumnsTable'>
+        <table summary='' class='id-labo'>
+          <tr >
+            <td class='title'>Synonym(s)</td>
+            <td>Monosomy 19q13.1<br/></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id='disease-idcard-ornament'>
+</div>
+<div id='col-left'>
+  <div class='article'>
+<h2>Summary</h2><p>An Orphanet summary for this disease is currently under development. However, other data related to the disease are accessible from the Additional Information menu located on the right side of this page.
+<br/>
+<br/>
+<br/></p></div>
+  <div class='noprint'>
+  </div>
+</div>
+<div id='col_relevant_disc'>
+  <div id='relevant-menu'>
+    <ul class='rm1'>
+      <li>Additional information
+        <ul class='rm2'>
+          <li>Further information on this disease
+            <ul class='rm3'>
+              <li><a href='Disease_Classif_Simple.php?lng=EN&amp;LnkId=18848&amp;Typ=Pat&amp;diseaseType=Pat'>Classification(s) (3)</a></li>
+              <li><a href='Disease_Genes_Simple.php?lng=EN&amp;LnkId=18848&amp;Typ=Pat&amp;diseaseType=Gen'>Gene(s) (0)</a></li>
+              <li><a href='Disease_Search_Simple.php?lng=EN&amp;type_list=Other_Websites&amp;LnkId=18848&amp;Typ=Pat'>Other website(s)							 (0)</a></li>
+            </ul>
+          </li>
+          <li>Health care resources for this disease
+            <ul class='rm3'>
+              <li><a href='Clinics_Search_Simple.php?lng=EN&amp;LnkId=18848&amp;Typ=Pat&amp;CnsGen=n'>Clinics (278)</a></li>
+              <li><a href='ClinicalLabs_Search_Simple.php?lng=EN&amp;LnkId=18848&amp;Typ=Pat'>Diagnostic tests (9)</a></li>
+              <li><a href='SupportGroup_Search_Simple.php?lng=EN&amp;LnkId=18848&amp;Typ=Pat'>Patient organisations (20)</a></li>
+              <li><a href='Drugs_Search_Simple.php?lng=EN&amp;LnkId=18848&amp;Typ=Pat'>Orphan drug(s) (0)</a></li>
+            </ul>
+          </li>
+          <li>Research activities on this disease
+            <ul class='rm3'>
+              <li><a href='ResearchTrials_ResearchProjects_Simple.php?lng=EN&amp;LnkId=18848&amp;Typ=Pat'>Research projects (30)</a></li>
+              <li><a href='ResearchTrials_ClinicalTrials_Simple.php?lng=EN&amp;LnkId=18848&amp;Typ=Pat'>Clinical trials (0)</a></li>
+              <li><a href='ResearchTrials_RegistriesMaterials_Simple.php?lng=EN&amp;LnkId=18848&amp;Typ=Pat'>Registries/biobanks (3)</a></li>
+              <li><a href='ResearchTrials_Licensing_Simple.php?lng=EN&amp;LnkId=18848&amp;Typ=Pat'>Licencing offers (1)</a></li>
+            </ul>
+          </li>
+          <li>Orphanet Reports series
+            <ul class='rm3'>
+              <li><a href='Education_Home.php?lng=EN#REPORT_RARE_DISEASES'>Prevalence of rare diseases</a></li>
+              <li><a href='Education_Home.php?lng=EN#REPORT_ORPHAN_DRUGS'>Orphan drugs in Europe</a></li>
+            </ul>
+          </li>
+          <li>Getting involved /informed
+            <ul class='rm3'>
+              <li><a href='Directory_RegisterNewsLetter.php?lng=EN'>Read the newsletter</a></li>
+              <li><a href='http://www.ojrd.com/'  class='lien_ext'>Read <acronym title='Orphanet Journal of Rare Diseases'>OJRD</acronym></a></li>
+              <li><a href='Directory_RegisterActivity.php?lng=EN'>Register your activity</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div id='disclaimer'>
+The documents contained in this web site are presented for information purposes only. The material is in no way intended to replace professional medical care by a qualified specialist and should not be used as a basis for diagnosis or treatment.</div>
+</div>
+</div>
+
+            <h2 class='hidden'>Orphanet</h2>
+            <div id='partners-logo-footer'>
+                <ul>
+                    <li><a title="Open in new window" href="http://www.inserm.fr/fr/"><img src="images/logo-INSERM.jpg"
+alt="Link to INSERM website"/></a></li>
+                    <li><a title="Open in new window" href="http://www.sante.gouv.fr/"><img
+src="images/logo-sante_jeunesse_sports.jpg" alt="Link to the French Ministry of Health"/></a></li>
+                    <li><a title="Open in new window"
+href="http://europa.eu.int/comm/health/ph_threats/non_com/rare_diseases_en.htm"><img src="images/logo-CEE_RDPortal.jpg"
+alt="Link to CEE website"/></a></li>
+                     <li><a title="Open in new window" href="http://www.afm-france.org/"><img src="images/logo-AFM.jpg"
+alt="Go to AFM website"/></a></li>
+                     <li><a title="Open in new window"
+href="http://corporate.airfrance.com/fr/developpement-durable/societe/soutenir-des-projets-humanitaires-et-des-projets-de-developpement/"><img
+src="images/logo-AIRFRANCE.jpg"
+alt="Go to Air France website"/></a></li>
+                    <li><a title="Open in new window" href="http://www.leem.org/"><img
+src="images/logo_LEEM.jpg"
+alt="Go to LEEM website"/></a></li>
+                    <li><a title="Open in new window" href="http://www.fondation-groupama.com/"><img
+src="images/logo-FONDATIONGRP.gif"
+alt="Go to Groupama website"/></a></li>
+
+                    <li class="honcode"><a class="lien_extimg"
+href="http://www.hon.ch/HONcode/Conduct.html?HONConduct385483"><img
+src="http://www.HONcode.ch/HONcode/Seal/French/HONConduct385483.jpg" alt="Link to HON website" height="50"
+width="45"/></a></li>
+
+                </ul>
+            </div>
+            <h2 class='hidden'>Footer:</h2><div id='copyright'>Copyright</div>
+            <div id='footer'>
+
+                <a href='index.php?lng=EN'>Orphanet</a>  |
+                <a href='Disease.php?lng=EN'>Rare diseases</a>  |
+                <a href='Drugs.php?lng=EN'>Orphan drugs</a>  |
+            <a href='Clinics.php?lng=EN'>Clinics</a>  |
+            <a href='ClinicalLabs.php?lng=EN'>Diagnostic tests</a>  |
+            <a href='ResearchTrials.php?lng=EN'>Research and trials</a>  |
+            <a href='SupportGroup.php?lng=EN'>Patient organisations</a>  |
+            <a href='Directory.php?lng=EN'>Directory</a> |
+            <a href='Education.php?lng=EN'>Other information</a> |
+            <a  href='html/orphanet-googlemap.xml?stapage=HM_BLOC_FOOTER_SITEMAP_STATOR_TAG&amp;lng=EN'  >XML SiteMap</a> | <a href='Education_AboutOrphanet.php?lng=EN&amp;stapage=CGU'>Legal notice</a></div></div><div id='languagesFooter'>
+                    <strong>Languages :</strong><ul><li><span lang='fr'><abbr title='Français'><a href="/consor/cgi-bin/OC_Exp.php?lng=FR&amp;Expert=217346" >Français</a></abbr></span></li><li><span lang='en'><abbr title='English'><a href="/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=217346"  class='current'>English</a></abbr></span></li><li><span lang='es'><abbr title='Español'><a href="/consor/cgi-bin/OC_Exp.php?lng=ES&amp;Expert=217346" >Español</a></abbr></span></li><li><span lang='de'><abbr title='Deutsch'><a href="/consor/cgi-bin/OC_Exp.php?lng=DE&amp;Expert=217346" >Deutsch</a></abbr></span></li><li><span lang='it'><abbr title='Italiano'><a href="/consor/cgi-bin/OC_Exp.php?lng=IT&amp;Expert=217346" >Italiano</a></abbr></span></li></ul></div><div id='logosw3c'><!-- <p><br/><a href="http://validator.w3.org/check?uri=referer"><img
+        src="images/xhtml10.png"
+        alt="XHTML Valid"  /></a>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img  src="images/css20.png"
+            alt="CSS Valid" /></a>
+<a href="http://www.w3.org/WAI/WCAG1AA-Conformance"
+      title="Explanation of Level Double-A Conformance">
+ <img src="images/WAI-AA-custom.png" alt="WAI-AA Valid"/></a>
+<a href="http://www.tawdis.net/taw3/cms/en">
+<img src="images/TAW-AA_small.png" alt="TAW3-AA Valid"/></a></p> --></div><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1500122-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>    </body>
+
+</html>
