@@ -14,7 +14,7 @@ import GoogleListCrawler
 import OrphanetListCrawler
 
 class ListCrawler(object):
-    """Return a site-specific list of urls"""
+
     crawler=None
     lst=[]
 
@@ -30,6 +30,7 @@ class ListCrawler(object):
         @raise NotImplemented: If the page is not recognized
         """       
         assert isinstance(page,str)
+        assert isinstance(query,str)
 
         self.page = page
         self.query = query
@@ -49,6 +50,9 @@ class ListCrawler(object):
         @return: Returns a list of urls
         @rtype: list
         """
-        return self.crawler(self.query)
+        
+        crawler = self.crawler(self.query)
+
+        return crawler.get_results()
 
 

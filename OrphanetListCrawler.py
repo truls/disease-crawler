@@ -24,7 +24,6 @@ class OrphanetListCrawler(ListCrawlerBase):
     orphanet_url = 'http://www.orpha.net/consor/cgi-bin/Disease_Search_List.php?lng=EN&TAG='
 
     def __init__(self, query=None):
-        """Nothing to initiate"""
         self.query = query
 
     def get_results(self):
