@@ -51,8 +51,8 @@ class ListCrawler(object):
         @rtype: list
         """
         
-        crawler = self.crawler(self.query)
+        crawler = self.crawler()
 
-        return crawler.get_results()
+        return crawler.get_results(self.query)
 
 

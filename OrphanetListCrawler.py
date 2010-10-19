@@ -23,10 +23,10 @@ class OrphanetListCrawler(ListCrawlerBase):
         
     orphanet_url = 'http://www.orpha.net/consor/cgi-bin/Disease_Search_List.php?lng=EN&TAG='
 
-    def __init__(self, query=None):
-        self.query = query
+    def __init__(self):
+        pass
 
-    def get_results(self):
+    def get_results(self,query=None):
         """Get a tubled list of disease urls and names
 
         In short: Go through all the disease categories ('A','B','C'...) using
