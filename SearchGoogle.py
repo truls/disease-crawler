@@ -122,11 +122,6 @@ class SearchGoogle(ListCrawlerBase):
             print 'Woke up! Retrying...'
             results = self.open_url(search_url)
         
-        # Try again?
-        if not results: 
-            self.open_url(search_url)
-            print "Trying again..."
-        
         parser = etree.HTMLParser()
         tree = lxml.etree.parse(results, parser)
 
